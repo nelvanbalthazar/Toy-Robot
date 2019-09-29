@@ -1,11 +1,20 @@
 {
-  "name": "package.json",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+    "name": "toyRobotSimulator",
+    "version": "1.0.0",
+    "description": "The application is a simulation of a toy robot moving on a square tabletop",
+    "main": "start.js",
+    "scripts": {
+        "test": "jasmine",
+        "start": "node start.js"
+    },
+    "keywords": [
+        "lookahead.com.au",
+        "test",
+        "task",
+        "toy",
+        "robot",
+        "simulator"
+    ],
+    "author": "Sergey R",
+    "license": "ISC"
 }
