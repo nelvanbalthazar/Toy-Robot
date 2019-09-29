@@ -1,2 +1,2 @@
-var app = require('./app/toyRobotApp');
+var app = require('./app/toyRo');
 app.run();
